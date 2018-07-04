@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-aspects-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-context-support-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-instrument-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-instrument-tomcat-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-jdbc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-jms-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-messaging-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-orm-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-oxm-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-test-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-tx-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-webmvc-portlet-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring-framework-4.3.9.RELEASE/libs/libs/spring-websocket-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Apache Software Foundation/Tomcat 7.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/software/eclipse-java-mars-2-win32-x86_64/eclipse/plugins/org.apache.commons.lang3_3.1.0.v201403281430.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/mockito-core-2.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/java-hamcrest-2.0.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/byte-buddy-1.8.12.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/common/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/common/aspectjweaver-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/common/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/common/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/common/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/spring/spring3.0.5/lib/common/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
